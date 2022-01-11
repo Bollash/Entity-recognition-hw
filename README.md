@@ -7,3 +7,5 @@ Team members:
 We used the following database: http://hlt.sztaki.hu/resources/hunnerwiki/huwiki.1.ner.tsv.gz
 
 To run it all you have to do is to run every cell in the Entity_recognition.pynb file.
+
+The documentation can be found here: https://youtu.be/EYJYNEuP2o0
